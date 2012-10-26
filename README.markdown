@@ -1,4 +1,4 @@
-> tl;dr Make sure that you understand the code before using his.  Use at your
+> tl;dr Make sure that you understand the code before using this.  Use at your
 > own risk!
 
 Use `sensors` or `cat /proc/acpi/ibm/thermal` to see your systems current
